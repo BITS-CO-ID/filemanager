@@ -1,0 +1,1 @@
+02-09-15 11:03:21	36.84.240.162	INFO	shared	AuthService	Create User	user_id=nurulimam
